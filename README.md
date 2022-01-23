@@ -2,7 +2,6 @@
 Currently I'm learning Java and want to become proficient in it.
 
 ## Skills and Experience
-Skills: Java / Sql / Python
 * ☕ Java
 * 🐍 Python
 * 📁 SQL
