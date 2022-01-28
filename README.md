@@ -3,7 +3,6 @@ Currently I'm learning Java and want to become proficient in it.
 
 ## Skills and Experience
 * ☕ Java
-* 🐍 Python
 * 📁 SQL
 
 
