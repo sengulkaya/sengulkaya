@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Şengül Kaya
+# Hi there 👋
+I'm Şengül Kaya graduated from Boğaziçi University majored in Economics.
 Currently I'm learning Java and want to become proficient in it.
 
 ## Skills and Experience
@@ -13,4 +14,3 @@ Currently I'm learning Java and want to become proficient in it.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengulkaya)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sengulkaya&show_icons=true)  
-
