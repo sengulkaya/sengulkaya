@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Şengül Kaya graduated from Boğaziçi University majored in Economics.
-Currently I'm learning Java and want to become proficient in it.
+Currently I'm learning Java and want to become Java developer soon.
 
 ## Skills and Experience
 * ☕ Java
